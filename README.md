@@ -19,7 +19,7 @@
 
 ## Access the App
 
-API_URL: https://v1.basketball.api-sports.io/games?date=2025-05-30
+API_URL: https://v1.basketball.api-sports.io/
 
 Client: http://localhost:3000
 
