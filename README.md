@@ -6,11 +6,13 @@
     cd Basketball_Matches
 
 2. Setup the Server:
+   ```bash
     cd server
     npm install
     npm start
 
-3. Setup the Client:
+4. Setup the Client:
+   ```bash
     cd client
     npm install
     npm start
